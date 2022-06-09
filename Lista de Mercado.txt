@@ -2,3 +2,4 @@ Galletas
 Cloud
 Internet
 Servidores
+Memorias
